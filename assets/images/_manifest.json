@@ -1,0 +1,161 @@
+{
+  "pages": [
+    "about.html",
+    "team.html",
+    "community-collaborators.html",
+    "resources.html",
+    "contact.html"
+  ],
+  "images": [
+    {
+      "name": "about-students-collage.jpg",
+      "ext": "jpg",
+      "local": "assets/images/about-students-collage.jpg",
+      "bytes": 109798
+    },
+    {
+      "name": "about-mission-overview.png",
+      "ext": "png",
+      "local": "assets/images/about-mission-overview.png",
+      "bytes": 1853587
+    },
+    {
+      "name": "hero-students-field.jpg",
+      "ext": "jpg",
+      "local": "assets/images/hero-students-field.jpg",
+      "bytes": 325038
+    },
+    {
+      "name": "about-timeline-2025.png",
+      "ext": "png",
+      "local": "assets/images/about-timeline-2025.png",
+      "bytes": 468889
+    },
+    {
+      "name": "about-timeline-2026.jpg",
+      "ext": "jpg",
+      "local": "assets/images/about-timeline-2026.jpg",
+      "bytes": 141946
+    },
+    {
+      "name": "logo.png",
+      "ext": "png",
+      "local": "assets/images/logo.png",
+      "bytes": 321022
+    },
+    {
+      "name": "team-brice-nordquist.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-brice-nordquist.jpg",
+      "bytes": 21417
+    },
+    {
+      "name": "team-xiaoxia-huang.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-xiaoxia-huang.jpg",
+      "bytes": 45416
+    },
+    {
+      "name": "team-sharon-dotger.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-sharon-dotger.jpg",
+      "bytes": 74690
+    },
+    {
+      "name": "team-dan-pacheco.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-dan-pacheco.jpg",
+      "bytes": 33619
+    },
+    {
+      "name": "team-nick-bowman.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-nick-bowman.jpg",
+      "bytes": 20444
+    },
+    {
+      "name": "team-qitian-jiang.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-qitian-jiang.jpg",
+      "bytes": 7620
+    },
+    {
+      "name": "team-stewart-diemont.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-stewart-diemont.jpg",
+      "bytes": 30489
+    },
+    {
+      "name": "team-jessica-fundalinsk.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-jessica-fundalinsk.jpg",
+      "bytes": 40612
+    },
+    {
+      "name": "team-olivia-kurz.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-olivia-kurz.jpg",
+      "bytes": 82207
+    },
+    {
+      "name": "team-zhen-li.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-zhen-li.jpg",
+      "bytes": 104966
+    },
+    {
+      "name": "team-stella-wang.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-stella-wang.jpg",
+      "bytes": 66787
+    },
+    {
+      "name": "team-xi-liu.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-xi-liu.jpg",
+      "bytes": 28385
+    },
+    {
+      "name": "team-trevor-bleick.jpg",
+      "ext": "jpg",
+      "local": "assets/images/team-trevor-bleick.jpg",
+      "bytes": 20728
+    },
+    {
+      "name": "collab-salt-city-harvest-farm.jpg",
+      "ext": "jpg",
+      "local": "assets/images/collab-salt-city-harvest-farm.jpg",
+      "bytes": 108032
+    },
+    {
+      "name": "collab-most.jpg",
+      "ext": "jpg",
+      "local": "assets/images/collab-most.jpg",
+      "bytes": 96289
+    },
+    {
+      "name": "collab-engaged-humanities-network.jpg",
+      "ext": "jpg",
+      "local": "assets/images/collab-engaged-humanities-network.jpg",
+      "bytes": 152096
+    },
+    {
+      "name": "collab-north-side-learning-center.jpg",
+      "ext": "jpg",
+      "local": "assets/images/collab-north-side-learning-center.jpg",
+      "bytes": 87425
+    },
+    {
+      "name": "resource-students-showcase.jpg",
+      "ext": "jpg",
+      "local": "assets/images/resource-students-showcase.jpg",
+      "bytes": 326198
+    },
+    {
+      "name": "resource-2025-summary-video.jpg",
+      "ext": "jpg",
+      "local": "assets/images/resource-2025-summary-video.jpg",
+      "bytes": 119893
+    }
+  ]
+}
